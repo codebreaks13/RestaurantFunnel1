@@ -24,3 +24,4 @@ Full implementation remains private. This showcase contains descriptions and app
 
 - 2026-10-04 — Project capability review (Source inspected): Desktop packaging, stock and point-of-sale modules identified in the existing project.
 # RestaurantFunnel1
+# ClaudeCodex-and-agy-

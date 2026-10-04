@@ -1,0 +1,35 @@
+{
+  "edition": "limited-public",
+  "project": "RestoSIP",
+  "prepared": "2026-10-05",
+  "files": [
+    {
+      "path": "src/App.tsx",
+      "sha256": "afcc8ab44b069fb1408242bcfbf947ba3728db08f092ffc3711cabe27a5485c1"
+    },
+    {
+      "path": "src/engine/orderEngine.ts",
+      "sha256": "fe99993b66bc04a87d606f4569de46a88f440be0fb2836bcf909dc0202d64e37"
+    },
+    {
+      "path": "src/engine/recipeEngine.ts",
+      "sha256": "e5569ec608f6d179e168a2a3bf866e0b55bad04c8ac2c745907c7b3e59c738fb"
+    },
+    {
+      "path": "src/engine/saleEngine.ts",
+      "sha256": "3183ea5690efbc70e7be921a285cec404ccb4f50c19c2c6d7f9ecde735d844ee"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "154881ac588bb1fe68b9a69e216c886166455cd54af8c7c250f32b905ada2704"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "770a6c6e5776f6e4dca2c8c0efefa99c5021521ec0456345e725ba05a7c2effe"
+    },
+    {
+      "path": "src/types.ts",
+      "sha256": "849a6cbde7ff8945073e08aa84da1bd7682261ec3ea147330fb5a5d1a249bcd1"
+    }
+  ]
+}

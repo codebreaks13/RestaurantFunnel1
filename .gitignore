@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env*
+!.env.example
+*.key
+*.pem
+*.bak
+*.pre-*
+*.before-*
+*.log
+*.sqlite*
+*.db
+data/
+artifacts/
+*.docx
+*.pdf
